@@ -1,1 +1,5 @@
-<?php echo "hello world?" ?>
+<?php 
+$x=1;
+$y=2;
+$z=3;
+?>
